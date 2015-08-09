@@ -1,4 +1,7 @@
 {
   "name": "coursebit/inkstand-plugin-test",
   "version": "1.0.0"
+  "extra": {
+    "bundle_class": "Inkstand\\InkstandPluginTestBundle"
+  }
 }
