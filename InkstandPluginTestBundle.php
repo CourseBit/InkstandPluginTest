@@ -1,6 +1,6 @@
 <?php
 
-namespace Inkstand\Bundle\CourseBundle;
+namespace Inkstand;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
