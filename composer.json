@@ -19,7 +19,7 @@
     "irc": "irc://irc.freenode.org/composer",
     "source": "https://github.com/CourseBit/InkstandPluginTest",
     "docs": "http://www.coursebit.net"
-  }
+  },
   "autoload": {
     "psr-4": { "Inkstand\\Bundle\\InkstandPluginTest\\": "" }
   },
