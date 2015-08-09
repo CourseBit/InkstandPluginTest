@@ -1,10 +1,30 @@
 {
   "name": "coursebit/inkstand-plugin-test",
   "version": "1.0.0",
+  "description": "This plugin is used for testing the plugin management within Inkstand LMS",
+  "homepage": "htts://www.coursebit.net",
+  "authors": [
+    {
+      "name": "Joseph Conradt",
+      "email": "joseph.conradt@coursebit.net",
+      "homepage": "http://www.coursebit.net",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "joseph.conradt@coursebit.net",
+    "issues": "https://github.com/CourseBit/InkstandPluginTest/issues",
+    "forum": "https://stackoverflow.com",
+    "wiki": "https://github.com/CourseBit/InkstandPluginTest/wiki",
+    "irc": "irc://irc.freenode.org/composer",
+    "source": "https://github.com/CourseBit/InkstandPluginTest",
+    "docs": "http://www.coursebit.net"
+  }
   "autoload": {
     "psr-4": { "Inkstand\\Bundle\\InkstandPluginTest\\": "" }
   },
   "extra": {
+    "bundle_title": "Plugin Test",
     "bundle_class": "Inkstand\\Bundle\\InkstandPluginTest\\InkstandPluginTestBundle"
   }
 }
