@@ -1,6 +1,6 @@
 {
   "name": "coursebit/inkstand-plugin-test",
-  "version": "1.0.0",
+  "version": "dev-master",
   "description": "This plugin is used for testing the plugin management within Inkstand LMS",
   "homepage": "htts://www.coursebit.net",
   "authors": [
