@@ -2,7 +2,7 @@
   "name": "coursebit/inkstand-plugin-test",
   "version": "dev-master",
   "description": "This plugin is used for testing the plugin management within Inkstand LMS",
-  "homepage": "htts://www.coursebit.net",
+  "homepage": "http://www.coursebit.net",
   "authors": [
     {
       "name": "Joseph Conradt",
